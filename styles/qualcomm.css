@@ -1,0 +1,19 @@
+a {
+    color: #ee0707;
+}
+
+.moments {
+    background-color: #ee0707;
+}
+
+.list__item li::before {
+    background-color: #ee0707;
+}
+
+.header:before {
+    background-color: #ee0707;
+}
+
+.moments__image {
+    border-radius: 2%;
+}

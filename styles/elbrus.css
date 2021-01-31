@@ -1,0 +1,16 @@
+
+a {
+    color: #3e701e;
+}
+
+.moments {
+    background-color: #3e701e;
+}
+
+.list__item li::before {
+    background-color: #3e701e;
+}
+
+.header:before {
+    background-color: #3e701e;
+}

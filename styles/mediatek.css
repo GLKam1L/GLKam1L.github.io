@@ -1,0 +1,16 @@
+
+a {
+    color: #dd8720;
+}
+
+.moments {
+    background-color: #dd8720;
+}
+
+.list__item li::before {
+    background-color: #dd8720;
+}
+
+.header:before {
+    background-color: #dd8720;
+}

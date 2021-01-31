@@ -1,0 +1,21 @@
+
+a {
+    color: #fd6e00;
+}
+
+.moments {
+    background-color: #fd6e00;
+}
+
+.list__item li::before {
+    background-color: #fd6e00;
+}
+
+.header:before {
+    background-color: #fd6e00;
+}
+@media (max-width: 520px){
+    .fullscreen__title {
+        font-size: 45px;
+    }
+}

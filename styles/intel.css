@@ -1,0 +1,27 @@
+
+a {
+    color: #0570c0;
+}
+
+.moments {
+    background-color: #0570c0;
+}
+
+.list__item li::before {
+    background-color: #0570c0;
+}
+
+.header:before {
+    background-color: #0570c0;
+}
+
+.moments__image {
+    border-radius: 0%;
+}
+
+
+.intel0 img{
+    max-width: 70%
+}
+
+
